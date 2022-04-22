@@ -1,9 +1,19 @@
 body {
   text-align: center;
-  margin-top: 16rem;
-  background-color: #4c3535;
+  margin-top: 15rem;
+  background-color: #56ffd2;
 }
 .list {
   list-style: none;
   margin-top: 20px;
+}
+h1 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 30px;
+}
+p {
+  font-size: 14px;
+  font-weight: 500;
 }
