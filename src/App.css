@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  margin-top: 16rem;
+  background-color: #4c3535;
+}
+.list {
+  list-style: none;
+  margin-top: 20px;
+}
